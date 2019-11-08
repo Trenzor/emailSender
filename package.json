@@ -1,0 +1,15 @@
+{
+  "name": "emailSender",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-aws-lambda": "^2.0.0",
+    "needle": "^2.4.0",
+    "puppeteer-core": "^2.0.0"
+  }
+}
